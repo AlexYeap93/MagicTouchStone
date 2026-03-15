@@ -67,7 +67,7 @@ export function InquiryForm() {
                   <Mail className="h-5 w-5 text-gray-600 mt-1" />
                   <div>
                     <p className="font-semibold text-gray-900">Email</p>
-                    <p className="text-gray-600">Walid@magictouchmasonry</p>
+                    <p className="text-gray-600">Walid@magictouchmasonry.com</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
